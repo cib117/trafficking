@@ -1,0 +1,972 @@
+Afghanistan,Pakistan
+Afghanistan,Saudi Arabia
+Afghanistan,Iran
+Albania,Netherlands
+Albania,Italy
+Albania,France
+Albania,United Kingdom
+Albania,Germany
+Albania,Greece
+Albania,Belgium
+Albania,Norway
+Albania,Egypt
+Angola,Republic Of South Africa
+Angola,Namibia
+Brazil,Argentina
+Colombia,Argentina
+Chile,Argentina
+Paraguay,Argentina
+Dominican Republic,Argentina
+Bolivia,Argentina
+South Korea,Australia
+China,Australia
+Pakistan,Bahrain
+Indonesia,Bahrain
+Bangladesh,Bahrain
+Philippines,Bahrain
+Nepal,Bahrain
+India,Bahrain
+Sri Lanka,Bahrain
+Thailand,Bahrain
+Thailand,Bahrain
+Thailand,Bahrain
+Belarus,Japan
+Belarus,South Korea
+Belarus,Russian Federation
+Belarus,Russian Federation
+India,Belize
+China,Belize
+Japan,Brazil
+Myanmar,Thailand
+Myanmar,China
+Myanmar,Malaysia
+Myanmar,China
+Myanmar,Bangladesh
+Myanmar,Malaysia
+Myanmar,Bangladesh
+Myanmar,Thailand
+Vietnam,Cambodia
+North Korea,China
+Colombia,Japan
+Colombia,Hong Kong
+Colombia,United States Of America
+Cuba,Mexico
+Dominican Republic,Cyprus
+Philippines,Cyprus
+Sri Lanka,Cyprus
+Philippines,Cyprus
+India,Cyprus
+Vietnam,Czech Republic
+China,Czech Republic
+Ukraine,Czech Republic
+Belarus,Czech Republic
+India,Czech Republic
+North Korea,Czech Republic
+Vietnam,Czech Republic
+China,Czech Republic
+Uganda,Democratic Republic Of The Congo
+Democratic Republic Of The Congo,Zambia
+Thailand,Timor Leste
+Philippines,Timor Leste
+Indonesia,Timor Leste
+Nigeria,Equatorial Guinea
+Mali,Equatorial Guinea
+Cameroon,Equatorial Guinea
+Benin,Equatorial Guinea
+Ethiopia,Saudi Arabia
+Ethiopia,Sudan
+Ethiopia,Egypt
+Ethiopia,Djibouti
+Ethiopia,Lebanon
+Ethiopia,Republic Of South Africa
+Ethiopia,Libya
+Ethiopia,Sudan
+Ethiopia,Egypt
+Ethiopia,Djibouti
+Ethiopia,Somalia
+Ethiopia,Kenya
+Romania,France
+Bulgaria,France
+Nigeria,France
+Albania,France
+Cameroon,France
+Sierra Leone,France
+Brazil,France
+French Guiana,France
+Liberia,Gabon
+Guinea,Gabon
+Sierra Leone,Gabon
+Togo,Gabon
+Nigeria,Gabon
+Cameroon,Gabon
+Burkina Faso,Gabon
+Benin,Gabon
+Guinea Bissau,Guinea
+Guinea Bissau,Senegal
+Guinea Bissau,Mali
+Ghana,Guinea
+Liberia,Guinea
+Senegal,Guinea
+China,Guinea
+Mali,Guinea
+Niger,Guinea
+Burkina Faso,Guinea
+China,Honduras
+Indonesia,Saudi Arabia
+Indonesia,Singapore
+Indonesia,United Arab Emirates
+Indonesia,Malaysia
+Indonesia,Kuwait
+Indonesia,Japan
+Indonesia,Taiwan
+Indonesia,Hong Kong
+Indonesia,South Korea
+Indonesia,Japan
+Afghanistan,Iran
+Turkey,Israel
+Romania,Israel
+Philippines,Israel
+Nepal,Israel
+India,Israel
+Jordan,Israel
+Sri Lanka,Israel
+Thailand,Israel
+Ukraine,Israel
+Uzbekistan,Israel
+Belarus,Israel
+Russian Federation,Israel
+Moldova,Israel
+Russian Federation,Italy
+China,Italy
+Jamaica,Dominican Republic
+Thailand,Japan
+China,Japan
+Pakistan,Kuwait
+Indonesia,Kuwait
+Bangladesh,Kuwait
+Philippines,Kuwait
+Nepal,Kuwait
+India,Kuwait
+Sri Lanka,Kuwait
+Iraq,Kuwait
+Sudan,Kuwait
+Pakistan,Kuwait
+Yemen,Kuwait
+Bangladesh,Kuwait
+Eritrea,Kuwait
+Laos,Thailand
+Laos,China
+Laos,Vietnam
+Ethiopia,Lebanon
+Philippines,Lebanon
+Indonesia,Lebanon
+Malaysia,Lebanon
+Somalia,Lebanon
+Sri Lanka,Lebanon
+Switzerland,Luxembourg
+Brazil,Luxembourg
+France,Luxembourg
+Russian Federation,China
+Hong Kong,China
+Mongolia,China
+Thailand,Malaysia
+Philippines,Malaysia
+Vietnam,Malaysia
+Indonesia,Malaysia
+Serbia And Montenegro,Malta
+Ukraine,Malta
+Russian Federation,Malta
+Mauritania,Mali
+Mexico,United States Of America
+Moldova,Turkey
+Moldova,Russian Federation
+Moldova,Israel
+Mongolia,Turkey
+Mongolia,Israel
+Mongolia,China
+Mongolia,South Korea
+Mongolia,North Korea
+Mongolia,Hungary
+Mongolia,Poland
+Mongolia,Germany
+Mongolia,France
+Morocco,Italy
+Morocco,Spain
+Mozambique,Republic Of South Africa
+Mozambique,Republic Of South Africa
+Mozambique,Nigeria
+Mozambique,China
+Mozambique,Republic Of South Africa
+Nepal,India
+Nepal,Malaysia
+Nepal,Saudi Arabia
+Nepal,United Arab Emirates
+Nepal,Kuwait
+Nepal,Iraq
+Nepal,Jordan
+Thailand,New Zealand
+Brazil,New Zealand
+Thailand,New Zealand
+Czech Republic,New Zealand
+Nicaragua,El Salvador
+Nicaragua,Guatemala
+Nicaragua,Costa Rica
+Nicaragua,Costa Rica
+North Korea,China
+Russian Federation,Norway
+Nigeria,Norway
+Albania,Norway
+Pakistan,Oman
+India,Oman
+Bangladesh,Oman
+Spain,Paraguay
+Paraguay,Brazil
+Paraguay,Argentina
+Peru,Japan
+Peru,United States Of America
+Peru,Venezuela
+Peru,Spain
+Brazil,Portugal
+Rwanda,Democratic Republic Of The Congo
+Sri Lanka,Saudi Arabia
+Nepal,Saudi Arabia
+Indonesia,Saudi Arabia
+India,Saudi Arabia
+Bangladesh,Saudi Arabia
+Afghanistan,Saudi Arabia
+Pakistan,Saudi Arabia
+Sudan,Saudi Arabia
+Somalia,Saudi Arabia
+Mali,Saudi Arabia
+Nigeria,Saudi Arabia
+Yemen,Saudi Arabia
+Nigeria,Saudi Arabia
+Philippines,Singapore
+Indonesia,Singapore
+Malaysia,Singapore
+Vietnam,Singapore
+China,Singapore
+Thailand,Singapore
+Slovakia,Ukraine
+Slovakia,Netherlands
+Slovakia,Italy
+Slovakia,Czech Republic
+Slovakia,France
+Slovakia,Austria
+Slovakia,Germany
+Slovakia,Switzerland
+Slovakia,Japan
+Slovakia,Moldova
+Ukraine,Slovenia
+Romania,Slovenia
+Bulgaria,Slovenia
+Slovakia,Slovenia
+Moldova,Slovenia
+Sudan,Ethiopia
+Sudan,United Arab Emirates
+Sudan,Qatar
+Sudan,Democratic Republic Of The Congo
+Sudan,Uganda
+Sweden,United Kingdom
+Sweden,Germany
+Sweden,Norway
+Sweden,Denmark
+Ukraine,Switzerland
+Brazil,Switzerland
+Romania,Switzerland
+Lithuania,Switzerland
+Cambodia,Switzerland
+Moldova,Switzerland
+Slovakia,Switzerland
+Hungary,Switzerland
+Thailand,Switzerland
+Dominican Republic,Switzerland
+Iraq,Syria
+Sri Lanka,Syria
+Ethiopia,Syria
+Philippines,Syria
+Indonesia,Syria
+Sierra Leone,Syria
+Ukraine,Syria
+Russian Federation,Syria
+Belarus,Syria
+Vietnam,Taiwan
+Thailand,Taiwan
+Philippines,Taiwan
+Vietnam,Taiwan
+Vietnam,Taiwan
+Japan,Taiwan
+Vietnam,Taiwan
+Vietnam,Taiwan
+Vietnam,Taiwan
+Tajikistan,Turkey
+Tajikistan,Russian Federation
+Tajikistan,Saudi Arabia
+Tajikistan,Iran
+Tajikistan,Kuwait
+Tajikistan,Russian Federation
+Brazil,Netherlands
+Nigeria,Netherlands
+Uganda,Sudan
+Uganda,Sudan
+Uganda,Democratic Republic Of The Congo
+Ukraine,Turkey
+Ukraine,Russian Federation
+Ukraine,Poland
+Ukraine,Israel
+Ukraine,Italy
+Ukraine,Czech Republic
+Ukraine,Portugal
+Ukraine,Serbia And Montenegro
+Ukraine,Lithuania
+Ukraine,United Kingdom
+Ukraine,Greece
+Ukraine,China
+Morocco,United Arab Emirates
+Iraq,United Arab Emirates
+Iran,United Arab Emirates
+Bangladesh,United Arab Emirates
+Philippines,United Arab Emirates
+Indonesia,United Arab Emirates
+India,United Arab Emirates
+Ethiopia,United Arab Emirates
+Sri Lanka,United Arab Emirates
+Pakistan,United Arab Emirates
+India,United Arab Emirates
+Bangladesh,United Arab Emirates
+Sudan,United Arab Emirates
+Pakistan,United Arab Emirates
+Bangladesh,United Arab Emirates
+Mauritania,United Arab Emirates
+Uruguay,Brazil
+Uruguay,China
+Uzbekistan,Turkey
+Uzbekistan,Israel
+Uzbekistan,India
+Uzbekistan,Malaysia
+Uzbekistan,Thailand
+Uzbekistan,Russian Federation
+Uzbekistan,Japan
+Uzbekistan,South Korea
+China,Uzbekistan
+Dominican Republic,Venezuela
+Colombia,Venezuela
+China,Venezuela
+Ecuador,Venezuela
+Peru,Venezuela
+Cambodia,Vietnam
+Zambia,Republic Of South Africa
+Afghanistan,Pakistan
+Afghanistan,Saudi Arabia
+Afghanistan,Iran
+Algeria,Belgium
+Algeria,Austria
+Algeria,Italy
+Armenia,United Arab Emirates
+Armenia,Turkey
+United Arab Emirates,Armenia
+Armenia,Turkey
+Armenia,Georgia
+Ukraine,Austria
+Romania,Austria
+Belarus,Austria
+Moldova,Austria
+Russian Federation,Austria
+Bulgaria,Austria
+Austria,Italy
+Austria,Spain
+Austria,France
+Bulgaria,Austria
+Azerbaijan,Turkey
+Azerbaijan,Russian Federation
+Azerbaijan,Germany
+Azerbaijan,Greece
+Azerbaijan,Turkey
+Azerbaijan,Russian Federation
+Bangladesh,Pakistan
+Bangladesh,India
+Bangladesh,Bahrain
+Bangladesh,Kuwait
+Bangladesh,Saudi Arabia
+Bangladesh,Qatar
+Bangladesh,India
+Bangladesh,Myanmar
+Belize,Guatemala
+Belize,Honduras
+Belize,Mexico
+Benin,Ghana
+Benin,Nigeria
+Benin,Gabon
+Benin,Niger
+Benin,Cote D'Ivoire
+Togo,Benin
+Niger,Benin
+Burkina Faso,Benin
+Bolivia,Spain
+Bolivia,Brazil
+Bolivia,Argentina
+Bolivia,Chile
+Serbia And Montenegro,Bosnia And Herzegovina
+Ukraine,Bosnia And Herzegovina
+Romania,Bosnia And Herzegovina
+Russian Federation,Bosnia And Herzegovina
+Moldova,Bosnia And Herzegovina
+Bolivia,Brazil
+China,Brazil
+Peru,Brazil
+Ukraine,Bulgaria
+Romania,Bulgaria
+Netherlands,Bulgaria
+Italy,Bulgaria
+Czech Republic,Bulgaria
+Kosovo,Bulgaria
+Lebanon,Bulgaria
+Macedonia,Bulgaria
+France,Bulgaria
+Belgium,Bulgaria
+Germany,Bulgaria
+Armenia,Bulgaria
+Russian Federation,Bulgaria
+Moldova,Bulgaria
+Austria,Bulgaria
+Burkina Faso,Ghana
+Burkina Faso,Niger
+Burkina Faso,Togo
+Burkina Faso,Mali
+Burkina Faso,Nigeria
+Burkina Faso,Cote D'Ivoire
+Burkina Faso,Benin
+Burkina Faso,Nigeria
+Burkina Faso,Mali
+Cambodia,Thailand
+Cambodia,Malaysia
+Cambodia,Thailand
+Cambodia,Thailand
+Cambodia,Vietnam
+Chad,Cameroon
+Central African Republic,Cameroon
+Democratic Republic Of The Congo,Cameroon
+Gabon,Cameroon
+Nigeria,Cameroon
+Niger,Cameroon
+Benin,Cameroon
+Cameroon,Guinea
+Canada,United States Of America
+Canada,Thailand
+Canada,South Korea
+Canada,Vietnam
+Canada,Cambodia
+Canada,Malaysia
+Chad,Cameroon
+Chad,Central African Republic
+Chad,Nigeria
+Chad,Saudi Arabia
+Chad,Cameroon
+Chad,Central African Republic
+Chile,Argentina
+Chile,Bolivia
+Chile,United States Of America
+Chile,Peru
+Argentina,Chile
+Bolivia,Chile
+China,Chile
+Colombia,Chile
+Peru,Chile
+China,Japan
+China,Malaysia
+China,Taiwan
+China,Thailand
+Russian Federation,China
+North Korea,China
+Vietnam,China
+Myanmar,China
+Mongolia,China
+North Korea,China
+Colombia,Costa Rica
+Cuba,Costa Rica
+Philippines,Costa Rica
+Guatemala,Costa Rica
+China,Costa Rica
+Peru,Costa Rica
+Russian Federation,Costa Rica
+Dominican Republic,Costa Rica
+Nicaragua,Costa Rica
+Ecuador,Costa Rica
+Costa Rica,Canada
+Costa Rica,United States Of America
+Costa Rica,Mexico
+Cote D'Ivoire,Syria
+Cote D'Ivoire,Netherlands
+Cote D'Ivoire,Italy
+Cote D'Ivoire,Spain
+Cote D'Ivoire,Libya
+Ukraine,Cote D'Ivoire
+Liberia,Cote D'Ivoire
+Philippines,Cote D'Ivoire
+China,Cote D'Ivoire
+Ghana,Cote D'Ivoire
+Burkina Faso,Cote D'Ivoire
+Serbia And Montenegro,Croatia
+Romania,Croatia
+Bosnia And Herzegovina,Croatia
+Bulgaria,Croatia
+Czech Republic,Austria
+Czech Republic,Netherlands
+Czech Republic,Germany
+Ukraine,Denmark
+Thailand,Denmark
+Nigeria,Denmark
+Russian Federation,Denmark
+Moldova,Denmark
+Djibouti,Ethiopia
+Djibouti,Somalia
+Djibouti,Somalia
+Dominican Republic,Brazil
+Dominican Republic,Australia
+Dominican Republic,Italy
+Dominican Republic,Panama
+Dominican Republic,Costa Rica
+Dominican Republic,Netherlands
+Dominican Republic,Germany
+Dominican Republic,Suriname
+Dominican Republic,Greece
+Dominican Republic,Switzerland
+Dominican Republic,Japan
+Dominican Republic,Argentina
+Ecuador,Venezuela
+Ecuador,Italy
+Ecuador,Spain
+Ecuador,Colombia
+Colombia,Ecuador
+Ukraine,Egypt
+Uzbekistan,Egypt
+Israel,Egypt
+Russian Federation,Egypt
+Moldova,Egypt
+Israel,Egypt
+El Salvador,Guatemala
+El Salvador,United States Of America
+El Salvador,Mexico
+Honduras,El Salvador
+Nicaragua,El Salvador
+Togo,Equatorial Guinea
+Nigeria,Equatorial Guinea
+China,Equatorial Guinea
+Cameroon,Equatorial Guinea
+Estonia,Sweden
+Estonia,Finland
+Estonia,Norway
+Ukraine,Estonia
+Russian Federation,Estonia
+Latvia,Estonia
+China,Estonia
+Ukraine,Estonia
+Russian Federation,Estonia
+Latvia,Estonia
+Russian Federation,Finland
+Thailand,Finland
+China,Finland
+Moldova,Finland
+Finland,United States Of America
+Turkey,Finland
+Russian Federation,Finland
+Estonia,Finland
+Finland,Georgia
+Finland,Italy
+Georgia,Turkey
+Georgia,Ukraine
+Georgia,Turkey
+Georgia,Greece
+Georgia,Russian Federation
+Georgia,Moldova
+Russian Federation,Georgia
+Thailand,Germany
+Nigeria,Germany
+Ghana,Togo
+Ghana,Nigeria
+Ghana,Cote D'Ivoire
+Ghana,Gambia
+Nigeria,Ghana
+Burkina Faso,Ghana
+Cote D'Ivoire,Ghana
+Nigeria,Greece
+Albania,Greece
+Guatemala,United States Of America
+Guatemala,Mexico
+Guatemala,Mexico
+Guinea,Republic Of South Africa
+Guinea,Mali
+Guinea,Senegal
+Guinea,Greece
+Guinea,Nigeria
+Guinea,Cote D'Ivoire
+Guinea,Spain
+Guinea,Benin
+Guyana,Suriname
+Guyana,Barbados
+Honduras,Guatemala
+Honduras,United States Of America
+Honduras,Mexico
+Ukraine,Hungary
+Poland,Hungary
+Moldova,Hungary
+Hungary,Netherlands
+Hungary,Italy
+Hungary,United States Of America
+Hungary,France
+Hungary,Austria
+Hungary,Germany
+Hungary,Switzerland
+Hungary,Japan
+Hungary,Spain
+Romania,Hungary
+Nepal,India
+Bangladesh,India
+Afghanistan,India
+Bangladesh,India
+Pakistan,India
+Pakistan,India
+Bangladesh,India
+China,Indonesia
+Indonesia,Ukraine
+Indonesia,Netherlands
+Indonesia,Poland
+Indonesia,Uzbekistan
+Indonesia,Russian Federation
+Indonesia,Thailand
+Indonesia,Taiwan
+Indonesia,Venezuela
+Indonesia,Spain
+Iran,Turkey
+Iran,Pakistan
+Afghanistan,Iran
+Bangladesh,Iran
+Pakistan,Iran
+Ukraine,Italy
+Romania,Italy
+Albania,Italy
+Moldova,Italy
+Nigeria,Italy
+Bulgaria,Italy
+Nigeria,Italy
+Russian Federation,Japan
+Thailand,Japan
+Philippines,Japan
+Japan,Brazil
+Japan,Myanmar
+Japan,Mexico
+Japan,Indonesia
+Japan,Malaysia
+Japan,Colombia
+Japan,South Korea
+Sri Lanka,Jordan
+Philippines,Jordan
+Indonesia,Jordan
+China,Jordan
+Jordan,Iraq
+Kazakhstan,Turkey
+Kazakhstan,Russian Federation
+Kazakhstan,Israel
+Kazakhstan,South Korea
+Kazakhstan,Greece
+Uzbekistan,Kazakhstan
+Russian Federation,Kazakhstan
+Kyrgyzstan,Kazakhstan
+Tajikistan,Kazakhstan
+China,Kenya
+Uzbekistan,Kyrgyzstan
+Tajikistan,Kyrgyzstan
+Turkmenistan,Kyrgyzstan
+Kyrgyzstan,Russian Federation
+Kyrgyzstan,Kazakhstan
+Kyrgyzstan,China
+Kyrgyzstan,Turkey
+Kyrgyzstan,Syria
+Kyrgyzstan,Greece
+Kyrgyzstan,China
+Kyrgyzstan,Germany
+Kyrgyzstan,Thailand
+Kyrgyzstan,South Korea
+Kyrgyzstan,Cyprus
+Kyrgyzstan,Russian Federation
+Kyrgyzstan,Kazakhstan
+Uzbekistan,Kyrgyzstan
+Latvia,Germany
+Latvia,Norway
+Latvia,Spain
+Lithuania,Latvia
+Somalia,Latvia
+Libya,Sudan
+Libya,Ethiopia
+Libya,Egypt
+Lithuania,United Kingdom
+Lithuania,Ukraine
+Lithuania,Russian Federation
+Lithuania,Belarus
+Russian Federation,China
+Thailand,China
+Vietnam,China
+Mongolia,China
+Russian Federation,China
+Thailand,China
+Vietnam,China
+Mongolia,China
+Bulgaria,Macedonia
+Romania,Macedonia
+Albania,Macedonia
+Moldova,Macedonia
+Macedonia,Serbia And Montenegro
+Macedonia,Albania
+Malawi,Republic Of South Africa
+China,Malaysia
+Malaysia,China
+Guinea,Mali
+Senegal,Mali
+Burkina Faso,Mali
+Mauritania,Mali
+Cote D'Ivoire,Mali
+Mali,Libya
+Morocco,Italy
+Morocco,Spain
+Morocco,Syria
+Morocco,Saudi Arabia
+Sri Lanka,Morocco
+Pakistan,Morocco
+Nigeria,Morocco
+India,Morocco
+Bangladesh,Morocco
+Ghana,Niger
+Togo,Niger
+Gabon,Niger
+Mali,Niger
+Burkina Faso,Niger
+Benin,Niger
+Nigeria,Saudi Arabia
+Nigeria,Netherlands
+Nigeria,Italy
+Nigeria,Sudan
+Nigeria,Central African Republic
+Nigeria,Austria
+Nigeria,Germany
+Nigeria,Mali
+Nigeria,Belgium
+Nigeria,Gabon
+Nigeria,Spain
+Nigeria,Ghana
+Nigeria,Chad
+Nigeria,Central African Republic
+Nigeria,Togo
+Nigeria,Niger
+Nigeria,Cameroon
+Nigeria,Benin
+North Korea,South Korea
+North Korea,China
+North Korea,China
+North Korea,China
+North Korea,China
+North Korea,China
+North Korea,Russian Federation
+North Korea,Czech Republic
+North Korea,Mongolia
+Pakistan,Turkey
+Pakistan,Iraq
+Pakistan,Iran
+Pakistan,Greece
+Qatar,Pakistan
+Afghanistan,Pakistan
+Kyrgyzstan,Pakistan
+Iran,Pakistan
+Bangladesh,Pakistan
+Myanmar,Pakistan
+Kazakhstan,Pakistan
+India,Pakistan
+Azerbaijan,Pakistan
+Uzbekistan,Pakistan
+Tajikistan,Pakistan
+Turkmenistan,Pakistan
+Pakistan,Sri Lanka
+Pakistan,Nepal
+Pakistan,Bangladesh
+Pakistan,Myanmar
+Pakistan,Greece
+Dominican Republic,Panama
+Colombia,Panama
+Panama,Jamaica
+Panama,Guatemala
+Panama,Mexico
+Paraguay,Brazil
+Paraguay,Argentina
+Paraguay,Spain
+Ukraine,Poland
+Romania,Poland
+Bulgaria,Poland
+Moldova,Poland
+Poland,Vietnam
+Poland,Israel
+Poland,Netherlands
+Poland,Italy
+Poland,France
+Poland,Germany
+Poland,Belgium
+Poland,Japan
+Brazil,Portugal
+Pakistan,Qatar
+Indonesia,Qatar
+Bangladesh,Qatar
+Philippines,Qatar
+Nepal,Qatar
+India,Qatar
+Uzbekistan,South Korea
+Kazakhstan,South Korea
+China,South Korea
+Russian Federation,South Korea
+Thailand,South Korea
+Philippines,South Korea
+South Korea,Canada
+South Korea,Japan
+South Korea,United States Of America
+South Korea,Mexico
+Romania,Canada
+Romania,Ukraine
+Romania,Italy
+Romania,Moldova
+Romania,Austria
+Romania,Germany
+Romania,Greece
+Romania,Russian Federation
+Romania,France
+Romania,Spain
+Russian Federation,Japan
+Russian Federation,South Korea
+Russian Federation,China
+Russian Federation,Ukraine
+Russian Federation,North Korea
+Senegal,Guinea
+Senegal,Guinea Bissau
+Senegal,Mali
+Senegal,Gambia
+Ukraine,Serbia And Montenegro
+Romania,Serbia And Montenegro
+Montenegro,Serbia And Montenegro
+Moldova,Serbia And Montenegro
+Croatia,Serbia And Montenegro
+Russian Federation,Serbia And Montenegro
+Bulgaria,Serbia And Montenegro
+Croatia,Serbia And Montenegro
+Montenegro,Serbia And Montenegro
+Serbia And Montenegro,Montenegro
+Serbia And Montenegro,Montenegro
+Serbia And Montenegro,Montenegro
+Liberia,Sierra Leone
+Gambia,Sierra Leone
+Guinea Bissau,Sierra Leone
+Guinea,Sierra Leone
+Nigeria,Sierra Leone
+Cote D'Ivoire,Sierra Leone
+Slovakia,Japan
+Slovenia,Netherlands
+Slovenia,Italy
+Thailand,Republic Of South Africa
+China,Republic Of South Africa
+Russian Federation,Spain
+Brazil,Spain
+Nigeria,Spain
+Romania,Spain
+Colombia,Spain
+Spain,Germany
+Spain,Portugal
+Spain,France
+Spain,Romania
+Sri Lanka,South Korea
+Sri Lanka,China
+Russian Federation,Sri Lanka
+Thailand,Sri Lanka
+China,Sri Lanka
+Brazil,Suriname
+Dominican Republic,Suriname
+Colombia,Suriname
+Guyana,Suriname
+China,Suriname
+Russian Federation,Sweden
+Nigeria,Sweden
+Estonia,Sweden
+Romania,Sweden
+Sweden,Netherlands
+Sweden,Italy
+Sweden,Denmark
+Sweden,France
+Sweden,China
+Sweden,Germany
+United Republic Of Tanzania,United Kingdom
+United Republic Of Tanzania,Oman
+United Republic Of Tanzania,Republic Of South Africa
+United Republic Of Tanzania,Republic Of South Africa
+Thailand,Bahrain
+Thailand,Australia
+Thailand,Singapore
+Thailand,Republic Of South Africa
+Thailand,Malaysia
+Thailand,Japan
+Thailand,Taiwan
+Thailand,Myanmar
+Thailand,Cambodia
+Thailand,Cambodia
+China,Thailand
+Cambodia,Thailand
+Myanmar,Thailand
+Laos,Thailand
+Central African Republic,Nigeria
+Central African Republic,Cameroon
+Ghana,Gambia
+Liberia,Gambia
+Guinea Bissau,Gambia
+Senegal,Gambia
+Nigeria,Gambia
+Sierra Leone,Gambia
+Senegal,Gambia
+Turkey,Netherlands
+Morocco,Netherlands
+Philippines,Japan
+Togo,Cote D'Ivoire
+Togo,Lebanon
+Togo,Burkina Faso
+Togo,Gabon
+Togo,Nigeria
+Togo,Niger
+Togo,Benin
+Ukraine,Turkey
+Moldova,Turkey
+Uzbekistan,Ukraine
+Uzbekistan,Russian Federation
+Uzbekistan,Kyrgyzstan
+Uzbekistan,Kazakhstan
+Venezuela,Dominican Republic
+Venezuela,Netherlands
+Venezuela,Aruba
+Venezuela,Spain
+Venezuela,Mexico
+Colombia,Venezuela
+Peru,Venezuela
+Vietnam,Czech Republic
+Vietnam,Cambodia
+Vietnam,Malaysia
+Vietnam,China
+Vietnam,Taiwan
+Vietnam,Hong Kong
+Taiwan,Vietnam
+Vietnam,Singapore
+Saudi Arabia,Yemen
+Iraq,Yemen
+Yemen,Saudi Arabia
+Democratic Republic Of The Congo,Zambia
+Republic Of South Africa,Zambia
+Zimbabwe,Egypt
+Zimbabwe,Zambia
+Zimbabwe,China
+Zimbabwe,Republic Of South Africa
+Republic Of South Africa,Zimbabwe
+Democratic Republic Of The Congo,Zimbabwe
+Zambia,Zimbabwe
+Malawi,Zimbabwe
+Republic Of South Africa,Zimbabwe
+Zimbabwe,Republic Of South Africa
