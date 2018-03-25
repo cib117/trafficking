@@ -4,10 +4,12 @@ This repository contains code and data from the project Reconstructing the Trans
 ### Content
 `python/`: Contains code for entity extraction process and classification models.
 
+`R/`: Contains code for estimating the ERGM model of the collapsed trafficking network.
+
 `data/`: Contains edgelists generated from the text of reports and gazetteer used.
 
 `plots/`: Contains figures
 
-<img src='plots/ROC_curve.png'>
+<img src='plots/trafficking_centrality.png'>
 
-<img src='plots/coefplot.png'>
+<img src='plots/ROC_curve.png'>
